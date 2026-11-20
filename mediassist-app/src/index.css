@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    font-family: 'Inter', system-ui, -apple-system, sans-serif;
+    background-color: #f8f7fc;
+    color: #1f2937;
+    -webkit-tap-highlight-color: transparent;
+  }
+}
